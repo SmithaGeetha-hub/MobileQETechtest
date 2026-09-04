@@ -8,10 +8,10 @@ import utils.WaitUtil;
 
 
 public class HomePage{
-    /*1. Locate and find the below element from Home page:
-     accessibility ID "home"  ---> Label box */
+   
+     //accessibility ID "home"  ---> Labelbox 
 
-    // 2. Return whether the home label found using method "isHomeDisplayed()"
+   
 
 
 }
